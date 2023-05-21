@@ -19,6 +19,6 @@ This is a Periodic Table designed and created using HTML and CSS only.
 <br>
 
 ## **Deployed Link :**
-<a href=""/></a>
+<a href="https://periodictabledeepti.netlify.app/"/></a>
 
 <br>
