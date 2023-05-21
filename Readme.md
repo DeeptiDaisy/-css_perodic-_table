@@ -10,7 +10,8 @@ This is a Periodic Table designed and created using HTML and CSS only.
 
 ## **Screenshots :**
 
-![Web Site Image](https://raw.githubusercontent.com/navneetkumar22/placement_assignment_navneetkumar_periodic_table/main/screenshot/screenshot1.png)
+
+![image](https://github.com/DeeptiDaisy/-css_perodic-_table/assets/109961309/16e0a3bf-6a81-42e9-bc41-866edf72fdc6)
 
 <br>
 
@@ -18,6 +19,6 @@ This is a Periodic Table designed and created using HTML and CSS only.
 <br>
 
 ## **Deployed Link :**
-<a href="https://periodictable-navneetkumar.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href=""/></a>
 
 <br>
